@@ -1,0 +1,24 @@
+.title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-size: xx-large;
+
+}
+
+.sub-title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-size: xx-large;
+}
+
+
+.Form { 
+    
+    margin: 0 auto;
+    width: 50%;
+
+}

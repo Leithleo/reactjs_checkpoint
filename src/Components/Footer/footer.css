@@ -1,0 +1,13 @@
+.copyright {
+  background-color: black;
+  opacity: 0.5;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+.footercontent {
+    color: white;
+  float: right;
+  margin-right: 1rem;
+}
